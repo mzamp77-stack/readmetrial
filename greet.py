@@ -3,8 +3,8 @@
 from datetime import datetime
 
 # Try changing these, then commit and push your edit!
-NAME = "world"
-FAVORITE_NUMBER = 7
+NAME = "Mia"
+FAVORITE_NUMBER = 17
 
 
 def greet(name: str) -> str:
